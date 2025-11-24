@@ -13,8 +13,9 @@
 
 ## 🎯 About Me
 
-Flutter developer who builds smooth, scalable mobile applications using **Clean Architecture**, **Cubit**, and **Firebase**.  
-I focus on shipping real apps with production-ready code and turning ideas into polished, real-world experiences.
+Flutter developer who builds smooth, scalable mobile applications using **Clean Architecture**, **Cubit**, and **Firebase**, focusing on shipping real apps with production-ready code and polished user experiences. I also contributed to a warehouse system for **Unilever**, the global company behind brands like **Dove, Sunsilk, Lipton**, and **OMO**.
+
+
 
 
 
