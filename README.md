@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Bero
+# 👋 Hi, I'm Ebram
 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ebram-shereen-265524226/)
@@ -46,7 +46,7 @@ Flutter developer who builds smooth, scalable mobile applications using **Clean 
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Projects
 
 <div align="center">
 
