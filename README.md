@@ -8,9 +8,6 @@
 
 </div>
 
-
-
-
 ## 🎯 About Me
 
 Flutter developer who builds smooth, scalable mobile applications using **Clean Architecture**, **Cubit**, and **Firebase**, focusing on shipping real apps with production-ready code and polished user experiences. I also contributed to a warehouse system for **Unilever**, the global company behind brands like **Dove, Sunsilk, Lipton**, and **OMO**.
@@ -128,9 +125,8 @@ Operating in **190+ countries**, their supply chain scale requires reliable logi
 />
 
 <!-- Streak Stats -->
-<img 
-  src="https://streak-stats.demolab.com?user=EbramShereen&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" 
-/>
+![Stats](https://github-readme-stats.vercel.app/api?username=EbramShereen&show_icons=true&theme=tokyonight&hide_border=true)
+
 
 </div>
 
